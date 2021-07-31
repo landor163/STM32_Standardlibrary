@@ -3,14 +3,14 @@
         {
             "name": "STM32_StandardLibrary",
             "includePath": [
-                "d:\\001_Main Files\\STM32_Standardlibrary\\Libraries\\CMSIS",
-                "d:\\001_Main Files\\STM32_Standardlibrary\\Libraries\\STM32F10x_StdPeriph_Driver\\inc",
-                "d:\\001_Main Files\\STM32_Standardlibrary\\User\\Main",
+                "c:\\Users\\Landor\\Desktop\\STM32_Standardlibrary\\Libraries\\CMSIS",
+                "c:\\Users\\Landor\\Desktop\\STM32_Standardlibrary\\Libraries\\STM32F10x_StdPeriph_Driver\\inc",
+                "c:\\Users\\Landor\\Desktop\\STM32_Standardlibrary\\User\\Main",
                 "C:\\003_Professional Software\\002_Keil MDK-ARM\\ARM\\ARMCC\\include",
                 "C:\\003_Professional Software\\002_Keil MDK-ARM\\ARM\\ARMCC\\include\\rw",
-                "d:\\001_Main Files\\STM32_Standardlibrary\\Libraries\\CMSIS\\startup",
-                "d:\\001_Main Files\\STM32_Standardlibrary\\Libraries\\STM32F10x_StdPeriph_Driver\\src",
-                "d:\\001_Main Files\\STM32_Standardlibrary\\Doc"
+                "c:\\Users\\Landor\\Desktop\\STM32_Standardlibrary\\Libraries\\CMSIS\\startup",
+                "c:\\Users\\Landor\\Desktop\\STM32_Standardlibrary\\Libraries\\STM32F10x_StdPeriph_Driver\\src",
+                "c:\\Users\\Landor\\Desktop\\STM32_Standardlibrary\\Doc"
             ],
             "defines": [
                 "STM32F10X_HD",
